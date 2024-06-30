@@ -1,0 +1,36 @@
+.container {
+  background-color: black;
+  color: white;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  font-family: Roboto;
+}
+.img {
+  height: 300px;
+}
+.primary {
+  color: white;
+  background-color: #0b69ff;
+  padding: 10px;
+  border-radius: 8px;
+  margin: 10px;
+  cursor: pointer;
+  outline: none;
+}
+.secondary {
+  color: white;
+  background-color: black;
+  border: solid 2px white;
+  padding: 10px;
+  border-radius: 8px;
+  margin: 10px;
+  cursor: pointer;
+  outline: none;
+}
+.main{
+  font-family: roboto;
+}
